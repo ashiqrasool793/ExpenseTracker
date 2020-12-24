@@ -8,4 +8,5 @@ insert into category values (2,'Auto Loan')
 insert into category  values (3,'Travel')
 
 
-insert into expense values (100,'New York','2019-06-16T17:00:00.000Z',1,1)
+insert into expense values (100,'New York Trip','2019-06-16T17:00:00.000Z','New York', 1,1)
+insert into expense values (101,'Car Installment','2019-06-16T17:00:00.000Z','Singapore', 2,2)
